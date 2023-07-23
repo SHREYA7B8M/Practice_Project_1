@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Revision\Student_Data_Practice_Project\Student_Data_Practice_Project\bin\Debug\Student_Data_Practice_Project.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Revision\Student_Data_Practice_Project\Student_Data_Practice_Project\bin\Debug\Student_Data_Practice_Project.exe
+C:\Users\KIIT\Desktop\Git Exercise\Revision\Student_Data_Practice_Project\Student_Data_Practice_Project\bin\Debug\Student_Data_Practice_Project.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Revision\Student_Data_Practice_Project\Student_Data_Practice_Project\obj\Debug\Student_Data_Practice_Project.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Revision\Student_Data_Practice_Project\Student_Data_Practice_Project\obj\Debug\Student_Data_Practice_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Revision\Student_Data_Practice_Project\Student_Data_Practice_Project\obj\Debug\Student_Data_Practice_Project.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Revision\Student_Data_Practice_Project\Student_Data_Practice_Project\obj\Debug\Student_Data_Practice_Project.exe
+C:\Users\KIIT\Desktop\Git Exercise\Revision\Student_Data_Practice_Project\Student_Data_Practice_Project\obj\Debug\Student_Data_Practice_Project.pdb
