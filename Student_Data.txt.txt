@@ -1,0 +1,7 @@
+Selena Gomez,    20,      Psychology
+Taylor Swift,    22,   English Literature
+Dua Lipa,        19,      Astrology
+Camila Cabello,  21,      Aeronautics
+Jennifer Lopez,  23,    Quantum Mechanics
+
+
