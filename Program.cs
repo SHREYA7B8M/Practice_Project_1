@@ -1,4 +1,4 @@
-﻿using Student_Data_Practice_Project;
+using Student_Data_Practice_Project;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -28,12 +28,13 @@ namespace StudentDataDisplay
                     students.Add(student);
                 }
             }
-          Console.WriteLine("Student Details of Rainbow School\n");
+            Console.WriteLine("Student Details of Rainbow School\n");
+
             foreach (var student in students)
             {
                 Console.WriteLine($"Name: {student.Name}, \tAge: {student.Age}, \tMajor: {student.Major}\n");
             }
-
+           
             Console.ReadKey();
         }
     }
