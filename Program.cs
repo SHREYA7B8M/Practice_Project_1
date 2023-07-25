@@ -11,7 +11,7 @@ namespace StudentDataDisplay
         {
             List<StudentData> students = new List<StudentData>();
 
-            string filePath = @"C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data.txt.txt";
+            string filePath = @"C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Practice_Project\Student_Data_Practice_Project\Student_Data.txt.txt";
             string[] lines = File.ReadAllLines(filePath);
 
             foreach (string line in lines)
