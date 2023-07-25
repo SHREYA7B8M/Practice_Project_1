@@ -28,7 +28,7 @@ namespace StudentDataDisplay
                     students.Add(student);
                 }
             }
-
+          Console.WriteLine("Student Details of Rainbow School\n");
             foreach (var student in students)
             {
                 Console.WriteLine($"Name: {student.Name}, \tAge: {student.Age}, \tMajor: {student.Major}\n");
